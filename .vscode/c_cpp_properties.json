@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/student/Desktop/ROSject/devel/include/**",
+        "/home/student/VAJE/VR_2022/catkin_ws2/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/student/VAJE/VR_2022/catkin_ws2/src/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/student/VAJE/VR_2022/catkin_ws2/src/test_move/include/**",
+        "/home/student/VAJE/VR_2022/catkin_ws2/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/student/Desktop/ROSject/src/universal_robot/ur_kinematics/include/**",
+        "/home/student/VAJE/VR_2022/catkin_ws2/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

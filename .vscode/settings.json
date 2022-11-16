@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/student/Desktop/ROSject/devel/lib/python2.7/dist-packages",
+        "/home/student/VAJE/VR_2022/catkin_ws2/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/student/Desktop/ROSject/devel/lib/python2.7/dist-packages",
+        "/home/student/VAJE/VR_2022/catkin_ws2/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
